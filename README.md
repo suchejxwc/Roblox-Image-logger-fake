@@ -10,3 +10,4 @@ will release soon better versions if you guys want to (also repalce images + any
 
 
 <h1>To-do<h1>
+<h3>Add [4] button that opens the image you put, and drops cookie etc. <h3>
